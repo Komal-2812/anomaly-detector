@@ -1,0 +1,6 @@
+python-3.10
+streamlit
+tensorflow==2.13
+Pillow
+numpy
+io
